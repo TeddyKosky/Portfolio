@@ -1,0 +1,107 @@
+
+
+/* Navigation Bar */
+
+.navbar {
+  background-color: #fff;
+  padding: 2 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+padding: 0 18px;
+}
+
+.nav-link {
+font-size: 1.2rem;
+font-family: "Montserrat";
+font-weight: bold;
+}
+
+/* Front Page */
+
+.main{
+  background-color: #fff;
+padding: 14% 10% 16.8% 10%;
+}
+
+.intro{
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.intro p{
+font-size: 30px;
+}
+
+/* About */
+
+.about {
+  padding: 4% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.about p{
+  font-size: 18px;
+}
+
+.pfp{
+  width: 50%;
+  margin-left: 25%;
+}
+
+/* Portfolio Section */
+
+.portfolio {
+  text-align: center;
+  background-color: #fff;
+  color: #000
+}
+
+.portfolio-img {
+  height: 10%;
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+/* Contact Section */
+
+.contactme{
+  padding: 5%;
+  background-color: #fff;
+}
+
+/* Social Section */
+
+.socials{
+  text-align: center;
+}
